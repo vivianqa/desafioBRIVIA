@@ -42,5 +42,5 @@ robot tests/criarusuario.robot
 Para testar a compra de produtos até a etapa do carrinho de compras:
 robot tests/comprarprodutos.robot
 
-Para remover um produto do carrinho
+Para remover um produto do carrinho de compras:
 robot tests/removerprodutodocarrinho.robot
